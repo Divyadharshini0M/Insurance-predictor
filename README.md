@@ -134,7 +134,7 @@ Predicted Insurance Cost: ₹ 52,340.75
 
 ## 👨‍💻 Author
 
-Final Year CSE Project
+Divyadharshini and Teams
 Insurance Cost Predictor using Machine Learning
 
 ---
@@ -142,4 +142,4 @@ Insurance Cost Predictor using Machine Learning
 ## 📄 License
 
 This project is for educational purposes.
->>>>>>> e0662a26a6300abebe7264c46d13bfad2293b56a
+
